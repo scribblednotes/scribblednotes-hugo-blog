@@ -1,7 +1,7 @@
 +++
-title = "Hello Darkness my Old Friend"
+title = "Hello Darkness my old Friend"
 draft = "false"
-slug = "hello-darkness"
+slug = "hello-darkness-my-old-friend"
 date = "2018-09-09T20:29:35+01:00"
 author = "Jackie"
 cover = "hellodarkness.jpg"

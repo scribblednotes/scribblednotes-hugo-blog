@@ -1,0 +1,22 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Scribbled Notes"
+theme = "hugo-theme-hello-friend"
+copyright = "Copyright &copy; 2017 - 2018 Jackie Plage."
+paginate = 7
+
+[params]
+  subtitle = "A tiny slice of the web for spewing my words."
+
+[params.logo]
+  logoText = "Scribbled Notes"
+#   or
+#
+#   path = "/img/your-example-logo.svg"
+#   alt = "Your example logo alt text"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"

@@ -2,5 +2,6 @@
   HUGO_VERSION = "0.48"
   HUGO_ENV = "production"
 
+[[redirects]]
   # Redirect default Netlify subdomain to primary domain
 https://scribblednotes.netlify.com/* https://scribblednotes.net/:splat 301!
